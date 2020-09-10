@@ -1,5 +1,6 @@
 # PLEASE WORK :)
 #  Please work this time :D
+#  For the love of god please work
 class Matrix:
     def __init__(self, matrix_string):
         self.matrix_string = matrix_string
