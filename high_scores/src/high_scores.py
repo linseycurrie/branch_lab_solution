@@ -19,3 +19,5 @@ def personal_top_three(scores):
         count = len(scores)
     
     return sorted_scores[0:count]
+
+# I am awesome!
